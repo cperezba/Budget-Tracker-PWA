@@ -39,7 +39,7 @@ No installation necessary! To access the application, merely click here.
 
 
 
-The application should be relatively intuitive! Merely add a title and an amount to added or subtracted to/from expenses. The total will be updated along with the graph.
+The application should be relatively intuitive! Add a title and an amount to added or subtracted to/from expenses and totals will be updated along with the graph.
 
 
 
