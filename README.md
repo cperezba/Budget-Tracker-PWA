@@ -38,10 +38,14 @@ No installation necessary! To access the application, merely click here.
 ## <a id="usage-header"></a> Usage
 
 
-
 The application should be relatively intuitive! Merely add a title and an amount to added or subtracted to/from expenses. The total will be updated along with the graph.
+<br/>
+<br/>
+
+
 ![Budget-Tracker-MainPage](assets/images/App-Main.PNG)
 
+---
 
 <br/>
 
