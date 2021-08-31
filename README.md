@@ -51,7 +51,7 @@ The application should be relatively intuitive! Merely add a title and an amount
 
 ## <a id="credits-header"></a> Credits
 
-Credit goes to the UT at Austin Bootcamp for prociding instruction and tools for learning their course on 'Full-Stack Web Development.'
+Credit goes to the UT at Austin Bootcamp for providing instruction and tools for learning their course on 'Full-Stack Web Development.'
 
 
 <br/>
