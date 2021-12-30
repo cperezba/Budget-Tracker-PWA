@@ -30,7 +30,7 @@ The purpose of this budget tracker is to allow users the ability to keep track o
 
 ## <a id="installation-header"></a> Installation
 
-No installation necessary! To access the application, merely click here.
+No installation necessary! To access the application, merely click [here](https://cperezba.github.io/Budget-Tracker-PWA/).
 
 
 <br/>
